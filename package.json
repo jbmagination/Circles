@@ -23,3 +23,5 @@
     "winston": "^3.0.0-rc3"
   }
 }
+
+start: cross-env NODE_ENV=production node index.js
