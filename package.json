@@ -7,7 +7,7 @@
   "author": "Seth Stephens <relative@airmail.cc>",
   "license": "GPL-3.0",
   "scripts": {
-    "start": "cross-env NODE_ENV=production node index.js"
+    "start": "node index.js cross-env NODE_ENV=production"
   },
   "dependencies": {
     "bufferutil": "^3.0.4",
