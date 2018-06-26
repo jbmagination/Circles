@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "An r/circleoftrust clone",
   "main": "index.js",
-  "repository": "https://github.com/FNCxPro/Circles",
+  "repository": "https://github.com/Cr3atable/Circles",
   "author": "Seth Stephens <relative@airmail.cc>",
   "license": "GPL-3.0",
   "scripts": {
